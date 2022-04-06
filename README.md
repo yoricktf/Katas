@@ -1,3 +1,3 @@
 # Katas
 
-This is a collection of chellenges from [Codewars](https://www.codewars.com/ "codewars homepage").
+This is a collection of challenges from [Codewars](https://www.codewars.com/ "codewars homepage").
