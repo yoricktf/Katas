@@ -25,3 +25,9 @@ function stringClean(s) {
   }
   return answer
 }
+
+// More succinct way of doing the same thing
+
+function stringClean(s) {
+  return s.replace(/[0-9]/g, '')
+}
