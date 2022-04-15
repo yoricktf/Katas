@@ -4,6 +4,9 @@
 // 'world'  =>  'dlrow'
 // 'word'   =>  'drow'
 
+function solution(str) {
+  return str.split("").reverse().join("");
+}
 
 function solution(str) {
   return (str === '') ? '' : solution(str.substr(1)) + str.charAt(0)
